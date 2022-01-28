@@ -8,4 +8,4 @@ This task required completing the following quiz:
 # Screenshots
 
 ### Design Patterns Quiz
-![Design Patterns Quiz](https://raw.githubusercontent.com/cupOJ/Design-Patterns/feature/item/1.jpg)
+![Design Patterns Quiz](https://raw.githubusercontent.com/cupOJ/Design-Patterns/feature/item/1.JPG)
